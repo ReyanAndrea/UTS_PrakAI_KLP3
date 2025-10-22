@@ -46,7 +46,7 @@ Sistem ini bertujuan untuk membantu peternak dalam menilai kelayakan bibit sapi 
 
 1. **Clone Repository**
 ```bash
-git clone https://github.com/kelompok6/cattle-expert-system.git
+git clone https://github.com/ReyanAndrea/UTS_PraktikumAI_KLP6.git
 cd cattle-expert-system
 ```
 
@@ -84,7 +84,7 @@ python app_gradio.py
 ```
 
 ### Versi React (Web Artifact)
-Buka file `index.html` di browser atau deploy ke Claude.ai
+Buka file `index.html` di browser
 
 ## 📖 Panduan Penggunaan
 
