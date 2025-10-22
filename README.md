@@ -78,11 +78,6 @@ python cattle_expert_system.py
 streamlit run app_streamlit.py
 ```
 
-### Versi Web dengan Gradio
-```bash
-python app_gradio.py
-```
-
 ### Versi React (Web Artifact)
 Buka file `index.html` di browser
 
@@ -182,7 +177,6 @@ CF(H,E1 ∧ E2) = CF(H,E1) + CF(H,E2) × [1 - CF(H,E1)]
 cattle-expert-system/
 ├── cattle_expert_system.py    # Main application (CLI)
 ├── app_streamlit.py            # Streamlit web app
-├── app_gradio.py               # Gradio web app
 ├── knowledge_base.json         # Knowledge base storage
 ├── requirements.txt            # Dependencies
 ├── README.md                   # Documentation
