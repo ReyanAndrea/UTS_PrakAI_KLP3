@@ -240,16 +240,4 @@ Sistem ini mengacu pada:
 - **Testing:** Pytest
 - **Version Control:** Git/GitHub
 
-## 📝 Changelog
-
-### Version 1.0.0 (2025-09-25)
-- Initial release
-- Implementasi Forward Chaining
-- Certainty Factor
-- 15 rules dasar
-- GUI dengan Streamlit dan React
-- Export laporan
-- Knowledge acquisition
-
-
 *Dibuat dengan ❤️ oleh Kelompok 6 - PRAKTIKUM KECERDASAN ARTIFICIAL*
