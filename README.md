@@ -79,9 +79,6 @@ python cattle_expert_system.py
 streamlit run app_streamlit.py
 ```
 
-### Versi React (Web Artifact)
-Buka file `index.html` di browser
-
 ## 📖 Panduan Penggunaan
 
 ### 1. Konsultasi Penilaian Bibit
@@ -255,24 +252,5 @@ Sistem ini mengacu pada:
 - Export laporan
 - Knowledge acquisition
 
-## 🤝 Kontribusi Tim
 
-- **YUYUN NAILUFAR** - Knowledge acquisition, validasi pakar
-- **MUHAMMAD RAZI SIREGAR** - Inference engine, algoritma CF
-- **REYAN ANDREA** - UI/UX design, dokumentasi
-- **FIRAH MAULIDA** - Testing, skenario test case
-- **IKRAM AL GHIFFARI** - Data collection, rule definition
-- **DIO FERDI JAYA** - Integration, deployment
-
-
-## 🙏 Acknowledgments
-
-Terima kasih kepada:
-- Dosen Pengampu: [Nama Dosen]
-- Pakar Domain: Dr. [Nama Pakar]
-- Peternak yang telah membantu validasi
-- Tim Kelompok 6 yang solid
-
----
-
-**Dibuat dengan ❤️ oleh Kelompok 6 - PRAKTIKUM KECERDASAN ARTIFICIAL*
+*Dibuat dengan ❤️ oleh Kelompok 6 - PRAKTIKUM KECERDASAN ARTIFICIAL*
