@@ -48,7 +48,6 @@ Sistem ini bertujuan untuk membantu peternak dalam menilai kelayakan bibit sapi 
 ```bash
 git clone https://github.com/ReyanAndrea/UTS_PraktikumAI_KLP6.git
 cd UTS_PraktikumAI_KLP6
-cd cattle-expert-system
 ```
 
 2. **Buat Virtual Environment (Opsional tapi direkomendasikan)**
