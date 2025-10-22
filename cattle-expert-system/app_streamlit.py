@@ -189,7 +189,7 @@ while (changed && iterations < maxIterations) { changed=false; iterations++; for
     const { workingMemory, usedRules } = forwardChaining();
 
     const conclusions = [
-    { id: 'layak_dibeli_premium', label: 'Layak Dibeli - Grade Premium', recommendation: 'Bibit sangat direkomendasikan.
+    { id: 'layak_dibeli_premiumm', label: 'Layak Dibeli - Grade Premium', recommendation: 'Bibit sangat direkomendasikan.
     Memenuhi seluruh kriteria SNI untuk sapi potong berkualitas tinggi. Cocok untuk breeding atau penggemukan intensif.'
     },
     { id: 'layak_dibeli_standar', label: 'Layak Dibeli - Grade Standar', recommendation: 'Bibit direkomendasikan.
