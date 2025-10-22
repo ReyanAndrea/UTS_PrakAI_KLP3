@@ -17,7 +17,7 @@ Sistem ini bertujuan untuk membantu peternak dalam menilai kelayakan bibit sapi 
 
 **Mata Kuliah:** INF313 - Kecerdasan Artifisial  
 **Institusi:** UNIVERSITAS SYIAH KUALA 
-**Tahun Akademik:** 2024/2025
+**Tahun Akademik:** 2025/2026
 
 ## ✨ Fitur Utama
 
