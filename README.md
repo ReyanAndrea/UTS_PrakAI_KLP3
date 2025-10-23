@@ -17,7 +17,7 @@ Sistem ini bertujuan untuk membantu peternak dalam menilai kelayakan bibit sapi 
 
 **Mata Kuliah:** INF313 - Kecerdasan Artifisial  
 **Institusi:** UNIVERSITAS SYIAH KUALA 
-**Tahun Akademik:** 2024/2025
+**Tahun Akademik:** 2025/2026
 
 ## ✨ Fitur Utama
 
@@ -239,17 +239,5 @@ Sistem ini mengacu pada:
 - **Export:** ReportLab, FPDF
 - **Testing:** Pytest
 - **Version Control:** Git/GitHub
-
-## 📝 Changelog
-
-### Version 1.0.0 (2025-09-25)
-- Initial release
-- Implementasi Forward Chaining
-- Certainty Factor
-- 15 rules dasar
-- GUI dengan Streamlit dan React
-- Export laporan
-- Knowledge acquisition
-
 
 *Dibuat dengan ❤️ oleh Kelompok 6 - PRAKTIKUM KECERDASAN ARTIFICIAL*

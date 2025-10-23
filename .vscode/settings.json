@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./UTS_PraktikumAI_KLP6/cattle-expert-system/app_"
+    ]
+}
