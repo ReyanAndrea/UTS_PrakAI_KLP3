@@ -680,7 +680,7 @@ def main():
         - Certainty Factor untuk ketidakpastian
         - Explanation Facility (WHY & HOW)
         - Riwayat konsultasi
-        - Interface web yang user-friendly
+        - Interface web yang user-friendlyy
         
         #### 📋 Standar Acuan:
         SNI 7651.6:2015 - Bibit Sapi Potong
