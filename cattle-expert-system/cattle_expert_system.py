@@ -1645,7 +1645,7 @@ class CattleExpertSystem:
         print("- Certainty Factor untuk ketidakpastian")
         print("- Explanation Facility (WHY & HOW)")
         print("- Knowledge Acquisition Interface")
-        print("- Export laporan konsultasi"
+        print("- Export laporan konsultasi")
         print("- Riwayat konsultasi")
         print("\nStandar Acuan:")
         print("SNI 7651.6:2015 - Bibit Sapi Potong")
